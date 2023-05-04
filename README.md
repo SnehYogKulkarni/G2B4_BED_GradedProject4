@@ -22,7 +22,7 @@ Your Rest Api should be secure.And should have different endpoints for different
 9. Your application should be able to list all employee records sorted on their first name in either ascending order or descending order.
 
 
-## Important Instructions
+### Important Instructions
 
 1. You should use the **H2 In Memory database/MySQL ** for the whole project along with **Spring JPA and Spring Security.**
 

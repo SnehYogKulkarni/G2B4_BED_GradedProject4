@@ -24,7 +24,7 @@ Your Rest Api should be secure.And should have different endpoints for different
 
 ### Important Instructions
 
-1. You should use the **H2 In Memory database/MySQL ** for the whole project along with **Spring JPA and Spring Security.**
+1. You should use the **H2 In Memory database/MySQL** for the whole project along with **Spring JPA and Spring Security.**
 
 2. Spring Boot Application must follow the standard project structure .
 
